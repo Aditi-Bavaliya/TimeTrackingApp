@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/time-tracking-application/static/css/main.e6c13ad2.css",
+    "main.js": "/time-tracking-application/static/js/main.c1b2d09f.js",
+    "static/js/787.5a6158de.chunk.js": "/time-tracking-application/static/js/787.5a6158de.chunk.js",
+    "index.html": "/time-tracking-application/index.html",
+    "main.e6c13ad2.css.map": "/time-tracking-application/static/css/main.e6c13ad2.css.map",
+    "main.c1b2d09f.js.map": "/time-tracking-application/static/js/main.c1b2d09f.js.map",
+    "787.5a6158de.chunk.js.map": "/time-tracking-application/static/js/787.5a6158de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c1b2d09f.js"
+  ]
+}
